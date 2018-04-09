@@ -2,7 +2,9 @@
 Collection Of Python Modules For General Use
 
 ## Why Was This Created
-In an effort to build my public portfolio, I decided to recreate code that I have found useful. Potential upcoming code snippets:
+In an effort to build my public portfolio, I decided to recreate code that I have found useful.
+
+Potential upcoming code snippets:
 
 - [] Jinja template to read in a table
 - [] manipulation of data from a CSV or XLSX
