@@ -6,9 +6,9 @@ In an effort to build my public portfolio, I decided to recreate code that I hav
 
 Potential upcoming code snippets:
 
-- [] Jinja template to read in a table
-- [] manipulation of data from a CSV or XLSX
-- [] html view of data based on weighted information
+[] Jinja template to read in a table
+[] manipulation of data from a CSV or XLSX
+[] html view of data based on weighted information
 
 ... TBD
 
